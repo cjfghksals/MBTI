@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dongmin\\C#\\MBTI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|d:\\dongmin\\c#\\mbti\\tf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|solutionrelative:tf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|D:\\Dongmin\\C#\\MBTI\\tf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|solutionrelative:tf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|D:\\Dongmin\\C#\\MBTI\\sn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|solutionrelative:sn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|D:\\Dongmin\\C#\\MBTI\\jp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|solutionrelative:jp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|D:\\Dongmin\\C#\\MBTI\\ei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0B4214F-E399-4CCC-981D-F54B786EB3A4}|MBTI.csproj|solutionrelative:ei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TF.cs",
+              "DocumentMoniker": "D:\\Dongmin\\C#\\MBTI\\TF.cs",
+              "RelativeDocumentMoniker": "TF.cs",
+              "ToolTip": "D:\\Dongmin\\C#\\MBTI\\TF.cs",
+              "RelativeToolTip": "TF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:21:04.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TF.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Dongmin\\C#\\MBTI\\TF.cs",
+              "RelativeDocumentMoniker": "TF.cs",
+              "ToolTip": "C:\\Dongmin\\C#\\MBTI\\TF.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T10:21:05.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SN.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Dongmin\\C#\\MBTI\\SN.cs",
+              "RelativeDocumentMoniker": "SN.cs",
+              "ToolTip": "C:\\Dongmin\\C#\\MBTI\\SN.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T10:21:05.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JP.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Dongmin\\C#\\MBTI\\JP.cs",
+              "RelativeDocumentMoniker": "JP.cs",
+              "ToolTip": "C:\\Dongmin\\C#\\MBTI\\JP.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T10:21:05.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EI.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Dongmin\\C#\\MBTI\\EI.cs",
+              "RelativeDocumentMoniker": "EI.cs",
+              "ToolTip": "C:\\Dongmin\\C#\\MBTI\\EI.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-02T10:21:05.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
